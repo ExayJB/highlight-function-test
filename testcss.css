@@ -1,0 +1,49 @@
+#mapContainer {
+  display: flex;
+}
+
+#mapContainer img {
+  cursor: pointer;
+}
+
+
+.continent{
+  position: relative;
+  justify-content: center;
+  display: flex;
+  align-items: center; 
+
+}
+.s_america{
+  object-position: left-bottom;
+  position: relative;
+  bottom: -215px;
+  left: -180px;
+  margin-left: 10px;
+}
+.n_america                                                                                                                                                                             f_america{
+  object-position: left-bottom;
+  position: relative;
+  bottom: -201px;
+  left: -200px;
+  margin-left: 10px;
+}
+.asia{
+  object-position: left-bottom;
+  position: relative;
+  left: -136px;
+  margin-left: 10px;
+  top: -17px;
+
+}
+.africa{
+  bottom: -130px;
+  position: relative;
+  left: -552px;
+}
+
+.australia{
+  position: relative;
+  bottom: -280px;
+  left: -445px;
+}
